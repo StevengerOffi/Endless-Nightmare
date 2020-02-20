@@ -48,8 +48,8 @@ Light:
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
   m_Shadows:
-    m_Type: 0
-    m_Resolution: -1
+    m_Type: 2
+    m_Resolution: 3
     m_CustomResolution: -1
     m_Strength: 1
     m_Bias: 0.05
@@ -76,7 +76,7 @@ Light:
   m_Cookie: {fileID: 0}
   m_DrawHalo: 0
   m_Flare: {fileID: 0}
-  m_RenderMode: 0
+  m_RenderMode: 1
   m_CullingMask:
     serializedVersion: 2
     m_Bits: 4294967295
@@ -161,7 +161,7 @@ PrefabInstance:
     - target: {fileID: -927199367670048503, guid: 180d49f4ab5b55b49a004643475a9de1,
         type: 3}
       propertyPath: m_Name
-      value: Lampe_Plafond
+      value: Lampe_Plafond Variant 1
       objectReference: {fileID: 0}
     - target: {fileID: 3905429322809234054, guid: 180d49f4ab5b55b49a004643475a9de1,
         type: 3}
